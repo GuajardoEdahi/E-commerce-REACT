@@ -7,6 +7,7 @@ import CheckOutItem from '../../components/checkout-item/checkout-item.component
 
 
 
+
 const CheckOut = ({cartItems, totalValue})=>(
   <div className="checkout-page">
 
